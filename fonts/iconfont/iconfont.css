@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3866878 */
+  src: url('iconfont.woff2?t=1674012152073') format('woff2'),
+       url('iconfont.woff?t=1674012152073') format('woff'),
+       url('iconfont.ttf?t=1674012152073') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 32px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-denglong:before {
+  content: "\e615";
+}
+

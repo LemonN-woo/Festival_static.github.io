@@ -1,0 +1,16 @@
+{
+  "id": "3866878",
+  "name": "festival",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3880049",
+      "name": "灯笼",
+      "font_class": "denglong",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}
